@@ -4,6 +4,7 @@ public:
         // Count the number of 1-bits (set bits) in num1 and num2
         int count1 = __builtin_popcount(num1);
         int count2 = __builtin_popcount(num2);
+        int cnt=0;
 
         // If num1 has more set bits than num2, turn off set bits from the LSB side until they match
         while (count1 > count2) {
