@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 ## Sorting
