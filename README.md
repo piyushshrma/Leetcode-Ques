@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
+| [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
@@ -93,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
+| [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
+| [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
