@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1876-map-of-highest-peak) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2145-grid-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0441-arranging-coins) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
