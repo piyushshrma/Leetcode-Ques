@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
+| [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
