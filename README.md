@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3312-number-of-changing-keys](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3312-number-of-changing-keys) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Database
 |  |
 | ------- |
@@ -221,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
