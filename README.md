@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
