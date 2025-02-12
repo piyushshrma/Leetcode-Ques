@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2145-grid-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3227-find-missing-and-repeated-values) |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
