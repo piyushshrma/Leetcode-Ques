@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
 ## Depth-First Search
@@ -305,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
