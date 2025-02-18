@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
 |  |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3312-number-of-changing-keys](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
 ## Simulation
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -315,5 +318,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
