@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
@@ -329,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
