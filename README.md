@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Topological Sort
 |  |
 | ------- |
