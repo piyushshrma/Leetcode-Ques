@@ -1,6 +1,7 @@
 class Solution {
 public:
-
+    // Moores Algorithm
+    // for getting majority element
     int mooresAlgo(vector<int>& nums, int n){
         int majEle=nums[0];
         int freq=1;
@@ -18,6 +19,7 @@ public:
         }
         return majEle;
     }
+
     int minimumIndex(vector<int>& nums) {
         int n=nums.size();
         int majEle = mooresAlgo(nums,n);
