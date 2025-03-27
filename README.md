@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
