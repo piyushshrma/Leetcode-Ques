@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2226-rings-and-rods) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3312-number-of-changing-keys](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3312-number-of-changing-keys) |
