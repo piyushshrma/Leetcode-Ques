@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2308-divide-array-into-equal-pairs) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
