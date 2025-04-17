@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2308-divide-array-into-equal-pairs) |
 | [2447-merge-similar-items](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2448-count-number-of-bad-pairs) |
