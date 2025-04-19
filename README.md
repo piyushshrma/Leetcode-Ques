@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2509-minimize-xor) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2561-number-of-distinct-averages) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
