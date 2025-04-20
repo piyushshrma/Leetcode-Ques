@@ -10,15 +10,14 @@ public:
         int ans=0;
 
         for(auto& i : mp){
-            int x = i.second;  // Number of rabbits giving the same answer
-            int groupSize = i.first + 1;  // Group size for this answer
+            int x = i.first; // answer
+            int count=i.second; // kitne logo ne `x` ans diya
+            int groupSize = x+1;
 
-            // The number of groups needed to fit these rabbits
-            // (rounding up the division)
-            int numGroups = (x + groupSize - 1) / groupSize;
+            int group = ceil((double)count/groupSize);
 
-            // Add the total number of rabbits to the answer
-            ans += numGroups * groupSize;
+            ans+=groupSize*group;
+
         }
 
         return ans;
