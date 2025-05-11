@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
