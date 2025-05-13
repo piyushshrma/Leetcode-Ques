@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
@@ -485,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
