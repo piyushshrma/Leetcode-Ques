@@ -1,9 +1,9 @@
 class Solution {
 public:
 
-    bool help(int i, int j, int k){
-    return i != j && j != k;
-}
+//     bool help(int i, int j, int k){
+//     return i != j && j != k;
+// }
 
     vector<string> getLongestSubsequence(vector<string>& words, vector<int>& groups) {
         vector<string> ans;
