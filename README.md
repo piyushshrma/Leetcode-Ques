@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -384,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2384-root-equals-sum-of-children](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2384-root-equals-sum-of-children) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -529,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
