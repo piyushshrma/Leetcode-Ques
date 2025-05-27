@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Breadth-First Search
 |  |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1500-count-largest-group) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0338-counting-bits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -581,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
