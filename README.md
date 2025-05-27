@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
