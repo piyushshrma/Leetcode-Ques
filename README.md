@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Heap (Priority Queue)
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
