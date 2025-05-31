@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0945-snakes-and-ladders](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1293-three-consecutive-odds) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1558-course-schedule-iv) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1876-map-of-highest-peak) |
