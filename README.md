@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0812-rotate-string) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
