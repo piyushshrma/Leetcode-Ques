@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -628,4 +629,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
