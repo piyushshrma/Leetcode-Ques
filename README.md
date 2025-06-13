@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
 |  |
 | ------- |
