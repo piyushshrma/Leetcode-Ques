@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
