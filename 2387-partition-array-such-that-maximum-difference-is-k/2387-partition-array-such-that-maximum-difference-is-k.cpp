@@ -17,6 +17,7 @@ public:
         // one subsequence formed
         ct++;
 
+        // Move to the next unprocessed number
         i=j;
         }
 
