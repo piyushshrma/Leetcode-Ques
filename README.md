@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1019-squares-of-a-sorted-array) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0237-delete-node-in-a-linked-list) |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 ## Game Theory
 |  |
 | ------- |
@@ -668,4 +672,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
