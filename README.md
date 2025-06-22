@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
