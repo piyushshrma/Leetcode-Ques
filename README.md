@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0792-binary-search) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1364-tuple-with-same-product) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1058-lexicographically-smallest-equivalent-string) |
