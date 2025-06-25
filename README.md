@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0792-binary-search) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1364-tuple-with-same-product) |
