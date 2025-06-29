@@ -1,3 +1,6 @@
+// TC : O(nlogn)
+// SC : O(n)
+
 class Solution {
 public:
     int numSubseq(vector<int>& nums, int target) {
