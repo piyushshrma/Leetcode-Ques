@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0503-next-greater-element-ii) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1019-squares-of-a-sorted-array) |
@@ -713,4 +715,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
