@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0237-delete-node-in-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
