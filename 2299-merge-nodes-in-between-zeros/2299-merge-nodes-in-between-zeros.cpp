@@ -27,14 +27,16 @@ public:
                 sum+=ll[i];
             }
             else{
+                if(sum!=0){
                 nayavec.push_back(sum);
                 sum=0;
+                }
             }
         }
 
-        ListNode* heady = new ListNode(nayavec[1]);
+        ListNode* heady = new ListNode(nayavec[0]);
         ListNode* tempy = heady;
-        for(int i=2; i<nayavec.size(); i++){
+        for(int i=1; i<nayavec.size(); i++){
             tempy->next=new ListNode(nayavec[i]);
             tempy=tempy->next;
         }
