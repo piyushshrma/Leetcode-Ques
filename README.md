@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
