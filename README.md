@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
