@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2145-grid-game) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2159-two-out-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
