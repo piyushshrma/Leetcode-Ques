@@ -1,25 +1,29 @@
 class Solution {
 public:
 
-    void getAllSub(vector<int>& nums, vector<int>& ans, int i, vector<vector<int>>& allSub) {
-        if (i == nums.size()) {
-            allSub.push_back(ans);  // Corrected: Add the current subset to allSub
+    void getSub(vector<int>& arr, vector<int>& ans, int i, vector<vector<int>>& allSub) {
+        if(i == arr.size()) {
+            allSub.push_back(ans);  // Push the current subset (ans) to allSub
             return;
         }
 
-        ans.push_back(nums[i]);  // Include the current element in the subset
-        getAllSub(nums, ans, i + 1, allSub);  // Recursive call to include the next element
+        // Include current element
+        ans.push_back(arr[i]);
+        getSub(arr, ans, i + 1, allSub);
 
-        ans.pop_back();  // Exclude the current element from the subset
-        getAllSub(nums, ans, i + 1, allSub);  // Recursive call to exclude the next element
+        // Backtrack, exclude current element
+        ans.pop_back();
+        
+        // Exclude current element
+        getSub(arr, ans, i + 1, allSub);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> allSub;  // To store all subsets
-        vector<int> ans;  // To store the current subset
+        vector<vector<int>> allSub;
+        vector<int> ans;
+        int i = 0;
 
-        getAllSub(nums, ans, 0, allSub);  // Start the recursion
-
-        return allSub;  // Return the list of all subsets
+        getSub(nums, ans, i, allSub);  // No need to return from getSub, just modify allSub
+        return allSub;  // Return the final result (allSub)
     }
 };
