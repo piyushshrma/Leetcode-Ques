@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
