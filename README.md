@@ -624,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2087-confirmation-rate) |
 ## Stack
 |  |
 | ------- |
