@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
