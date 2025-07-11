@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //Recursion + Memoization
     int maxLoot(vector<int>& nums, int idx, vector<int>& dp){
         if(idx>=nums.size()){
             return 0;
