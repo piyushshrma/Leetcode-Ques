@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
