@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1160-letter-tile-possibilities) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -780,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Merge Sort
 |  |
 | ------- |
