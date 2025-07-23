@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0684-redundant-connection) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0945-snakes-and-ladders) |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1058-lexicographically-smallest-equivalent-string) |
