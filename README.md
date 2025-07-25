@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0125-valid-palindrome) |
