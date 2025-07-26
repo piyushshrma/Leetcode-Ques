@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0074-search-a-2d-matrix) |
@@ -748,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
 ## Game Theory
