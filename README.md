@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
