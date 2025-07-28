@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1646-kth-missing-positive-number) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2145-grid-game](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2145-grid-game) |
 | [3639-zero-array-transformation-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
