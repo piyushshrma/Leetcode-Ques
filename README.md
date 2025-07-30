@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0031-next-permutation) |
