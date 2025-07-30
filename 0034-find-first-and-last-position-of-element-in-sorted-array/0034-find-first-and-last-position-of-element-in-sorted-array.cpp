@@ -27,8 +27,8 @@ public:
                 while(dusra<=nums.size()-1 && nums[dusra]==target){
                     dusra++;
                 }
-                ans[0]=pahla+1;
-                ans[1]=dusra-1;
+                ans[0]=pahla+1; // while condn check krte time decrement ho gaya
+                ans[1]=dusra-1; // while condn check krte time inrement ho gaya
             }
         }
         return ans;
