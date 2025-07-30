@@ -2,50 +2,35 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
-        vector<int> ans(2, -1);  // Default to {-1, -1}
-        
-        if (n == 0) {
-            return ans;
+        vector<int> ans = {-1,-1};
+        if(n<=0){
+            return {-1, -1};
         }
+        int left=0;
+        int right=n-1;
 
-        int st = 0;
-        int end = n - 1;
-        
-        // Find the leftmost occurrence of target
-        while (st <= end) {
-            int mid = st + (end - st) / 2;
-            if (nums[mid] == target) {
-                // Try to find the leftmost index
-                end = mid - 1;
-                ans[0] = mid;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            
+            if(nums[mid]>target){
+                right=mid-1;
             }
-            else if (nums[mid] < target) {
-                st = mid + 1;
+            else{
+                left=mid+1;
             }
-            else {
-                end = mid - 1;
-            }
-        }
-
-        st = 0;
-        end = n - 1;
-
-        // Find the rightmost occurrence of target
-        while (st <= end) {
-            int mid = st + (end - st) / 2;
-            if (nums[mid] == target) {
-                // Try to find the rightmost index
-                st = mid + 1;
-                ans[1] = mid;
-            }
-            else if (nums[mid] < target) {
-                st = mid + 1;
-            }
-            else {
-                end = mid - 1;
+            
+            if(nums[mid]==target){
+                int pahla=mid,dusra=mid;
+                while(pahla>=0 && nums[pahla]==target){
+                    pahla--;
+                }
+                while(dusra<=nums.size()-1 && nums[dusra]==target){
+                    dusra++;
+                }
+                ans[0]=pahla+1;
+                ans[1]=dusra-1;
             }
         }
-
         return ans;
     }
 };
