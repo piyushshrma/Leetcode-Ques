@@ -1,21 +1,30 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int n = s.length();
-        string ans = "";
-        reverse(s.begin(), s.end());
-        for (int i = 0; i < n; i++) {
-            string word = "";
-            // Collect characters until we hit a space or the end of the string
-            while (i < n && s[i] != ' ') {
-                word += s[i];
-                i++;
+        int n=s.size();
+        string ans="";
+        string temp="";
+
+        for(int i=n-1; i>=0; i--){
+            if(s[i]!=' '){
+                temp+=s[i];
             }
-            reverse(word.begin(), word.end());
-            if (word.length() > 0) {
-                ans += " " + word;
+            else if(!temp.empty()){
+                reverse(temp.begin(), temp.end());
+                ans+=temp;
+                ans+=" ";
+                temp="";
             }
         }
-        return ans.substr(1);
+
+        if(!temp.empty()){
+            reverse(temp.begin(), temp.end());
+            ans+=temp;
+            temp="";
+        }
+        if(ans[ans.size()-1]==' '){
+            ans.pop_back();
+        }
+        return ans;
     }
 };
