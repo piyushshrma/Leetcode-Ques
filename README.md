@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -759,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2447-merge-similar-items) |
+| [3790-fruits-into-baskets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -871,4 +875,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
