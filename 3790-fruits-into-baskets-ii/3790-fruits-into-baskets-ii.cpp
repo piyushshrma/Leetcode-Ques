@@ -6,12 +6,16 @@ public:
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
             if(fruits[i]<=baskets[j]){
-                baskets[j]=0;
-                ans++;
+                baskets[j]=-1;
                 break;
             }
             }
         }
-        return n-ans;
+        for(int i=0; i<n; i++){
+            if(baskets[i]!=-1){
+                ans++;
+            }
+        }
+        return ans;
     }
 };
