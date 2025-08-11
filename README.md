@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0496-next-greater-element-i) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0594-longest-harmonious-subsequence) |
