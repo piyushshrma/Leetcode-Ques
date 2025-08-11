@@ -20,8 +20,8 @@ public:
                 return nums[mid];
             }
             
-            if (nums[mid] >= nums[left]) {
-                left = mid + 1; // Move right if mid is greater than left
+            if (nums[mid] >= nums[0]) {
+                left = mid + 1;
             } else {
                 high = mid - 1; // Move left if mid is smaller than left
             }
