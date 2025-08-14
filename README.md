@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
@@ -813,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1986-largest-color-value-in-a-directed-graph) |
