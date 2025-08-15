@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
