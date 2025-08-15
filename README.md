@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/piyushshrma/Leetcode-Ques/tree/master/3600-find-the-k-th-character-in-string-game-i) |
