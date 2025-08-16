@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/piyushshrma/Leetcode-Ques/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/piyushshrma/Leetcode-Ques/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/piyushshrma/Leetcode-Ques/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
