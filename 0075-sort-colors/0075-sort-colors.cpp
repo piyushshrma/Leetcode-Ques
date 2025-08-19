@@ -14,17 +14,30 @@ public:
                 t++;
             }
         }
-        if(z>=1){
+        // if(z>=1){
+        // for(int i=0; i<z; i++){
+        //     nums[i]=0;
+        // }}
+        // if(o>=1){
+        // for(int i=z; i<o+z; i++){
+        //     nums[i]=1;
+        // }}
+        // if(t>=1){
+        // for(int i=o+z; i<o+z+t; i++){
+        //     nums[i]=2;
+        // }}
+        int idx=0;
+        for(int i=0; i<z; i++){
+            nums[idx]=0;
+            idx++;
+        }
         for(int i=0; i<o; i++){
-            nums[i]=0;
-        }}
-        if(o>=1){
-        for(int i=z; i<o+z; i++){
-            nums[i]=1;
-        }}
-        if(t>=1){
-        for(int i=o+z; i<o+z+t; i++){
-            nums[i]=2;
-        }}
+            nums[idx]=1;
+            idx++;
+        }
+        for(int i=0; i<t; i++){
+            nums[idx]=2;
+            idx++;
+        }
     }
 };
