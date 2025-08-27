@@ -1,31 +1,28 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& grid, int row, int col){
-        if(row<0 || col<0 || row>=grid.size() || col>=grid[0].size() || grid[row][col] != '1'){
+    void dfs(vector<vector<char>>& grid, int i, int j){
+        if(i<0 || j<0 || i>=grid.size() || j>=grid[0].size() || grid[i][j]!='1'){
             return;
         }
-
-        // Mark the current cell as visited
-        grid[row][col]=2;
-
-        dfs(grid, row-1, col);//up
-        dfs(grid, row+1, col);//down
-        dfs(grid, row, col-1);//left
-        dfs(grid, row, col+1);//right
+        grid[i][j]='0';
+        dfs(grid,i-1,j);
+        dfs(grid,i+1,j);
+        dfs(grid,i,j+1);
+        dfs(grid,i,j-1);
     }
 
     int numIslands(vector<vector<char>>& grid) {
-        int islandCount=0;
-        
-        // Traverse each cell in the grid
-        for(int row=0; row<grid.size(); row++){
-            for(int col=0; col<grid[0].size(); col++){
-                if(grid[row][col]=='1'){
-                    islandCount++;
-                    dfs(grid, row, col);
+        int ct=0;
+        int row=grid.size();
+        int col=grid[0].size();
+        for(int i=0; i<row; i++){
+            for(int j=0; j<col; j++){
+                if(grid[i][j]=='1'){
+                    ct++;
+                    dfs(grid,i,j);
                 }
             }
         }
-        return islandCount;
+        return ct;
     }
 };
