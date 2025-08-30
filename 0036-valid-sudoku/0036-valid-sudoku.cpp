@@ -1,117 +1,32 @@
 class Solution {
 public:
-    bool isValidSudoku(vector<vector<char>>& b) {
-        for(int i=0;i<9;i++){
-            for(int j=0;j<9;j++){
-                if(isdigit(b[i][j])){
+    bool isValidSudoku(vector<vector<char>>& board) {
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+                char current = board[row][col];
+                if (isdigit(current)) {
 
-                    //sameRow
-                    for(int r=0;r<9;r++){
-                        if(b[r][j]==b[i][j]&&i!=r){
+                    // Check the same column
+                    for (int r = 0; r < 9; r++) {
+                        if (r != row && board[r][col] == current) {
                             return false;
                         }
                     }
 
-                    //sameCol
-                    for(int c=0;c<9;c++){
-                        if(b[i][c]==b[i][j]&&j!=c){
+                    // Check the same row
+                    for (int c = 0; c < 9; c++) {
+                        if (c != col && board[row][c] == current) {
                             return false;
                         }
                     }
 
-                    //sameSqaure
-                    int r=i/3;
-                    int c=j/3;
-
-                    //0,0
-                    if(r==0&&c==0){
-                        for(int x=0;x<3;x++){
-                            for(int y=0;y<3;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //0,1
-                    if(r==0&&c==1){
-                        for(int x=0;x<3;x++){
-                            for(int y=3;y<6;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //0,2
-                    if(r==0&&c==2){
-                        for(int x=0;x<3;x++){
-                            for(int y=6;y<9;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-
-                    //1,0
-                    if(r==1&&c==0){
-                        for(int x=3;x<6;x++){
-                            for(int y=0;y<3;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //1,1
-                    if(r==1&&c==1){
-                        for(int x=3;x<6;x++){
-                            for(int y=3;y<6;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //1,2
-                    if(r==1&&c==2){
-                        for(int x=3;x<6;x++){
-                            for(int y=6;y<9;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-
-                    //2,0
-                    if(r==2&&c==0){
-                        for(int x=6;x<9;x++){
-                            for(int y=0;y<3;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //2,1
-                    if(r==2&&c==1){
-                        for(int x=6;x<9;x++){
-                            for(int y=3;y<6;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
-                            }
-                        }
-                    }
-                    //2,2
-                    if(r==2&&c==2){
-                        for(int x=6;x<9;x++){
-                            for(int y=6;y<9;y++){
-                                if(b[x][y]==b[i][j] && i!=x && j!=y){
-                                    return false;
-                                }
+                    // Check the 3x3 box
+                    int startRow = (row / 3) * 3;
+                    int startCol = (col / 3) * 3;
+                    for (int r = startRow; r < startRow + 3; r++) {
+                        for (int c = startCol; c < startCol + 3; c++) {
+                            if ((r != row || c != col) && board[r][c] == current) {
+                                return false;
                             }
                         }
                     }
