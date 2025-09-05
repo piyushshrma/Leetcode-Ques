@@ -1,20 +1,23 @@
 class Solution {
 public:
-    //Recursion + Memoization
-    int maxLoot(vector<int>& nums, int idx, vector<int>& dp){
-        if(idx>=nums.size()){
+    int rec(int i, vector<int>& nums, vector<int>& dp){
+        //base case
+        if(i>=nums.size()){
             return 0;
         }
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-        int steal=nums[idx]+maxLoot(nums, idx+2, dp);
-        int skip=maxLoot(nums, idx+1, dp);
-        return dp[idx]=max(steal,skip);
+
+        //check
+        if(dp[i]!=-1) return dp[i];
+
+        int take=nums[i]+rec(i+2,nums,dp);
+
+        int not_take=rec(i+1,nums,dp);
+
+        return dp[i] = max(take, not_take);
     }
+
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> dp(n,-1);
-        return maxLoot(nums, 0, dp);
+        vector<int> dp(nums.size()+1, -1);
+        return rec(0, nums,dp);
     }
 };
