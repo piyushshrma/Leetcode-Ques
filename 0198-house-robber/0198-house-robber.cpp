@@ -17,7 +17,7 @@ public:
         //not take
         int not_take=rec(i+1,n,nums,dp);
 
-        return max(take, not_take);
+        return dp[i] = max(take, not_take);
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
