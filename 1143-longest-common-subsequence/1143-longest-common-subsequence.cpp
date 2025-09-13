@@ -1,7 +1,7 @@
 class Solution {
 public:
     int rec(int i, int j, string& text1, string& text2, vector<vector<int>>& dp){
-        if (i == text1.size() || j == text2.size()) return 0;
+        if (i >= text1.size() || j >= text2.size()) return 0;
 
         if(dp[i][j]!=-1) return dp[i][j];
 
