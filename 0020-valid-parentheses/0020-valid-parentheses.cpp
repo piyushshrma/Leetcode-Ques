@@ -6,13 +6,12 @@ public:
         if(n<=1) return 0;
         // st.push(s[0]);
         for(int i=0; i<n; i++){
-            if (!st.empty() && ((s[i] == ')' && st.top() == '(') || (s[i] == '}' && st.top() == '{') || (s[i] == ']' && st.top() == '['))) {
-    st.pop();
-}
-else {
-    st.push(s[i]);
-}
-
+            if(!st.empty() && ((s[i]==')' && st.top()=='(') || (s[i]=='}' && st.top()=='{') || (s[i]==']' && st.top()=='['))){
+                st.pop();
+            }
+            else{
+                st.push(s[i]);
+            }
             
         }
         return st.size()==0;
