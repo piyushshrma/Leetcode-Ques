@@ -1,18 +1,19 @@
 class Solution {
 public:
-    int rec(int i, vector<int>& nums, vector<int>& dp){
-        //base case
-        int n=nums.size();
-        if(i>=n) return 0;
+    int rec(int i, int n, vector<int>& nums, vector<int>& dp){
+        //bc
+        if(i>=n){
+            return 0;
+        }
 
-        //check
+        //check dp
         if(dp[i]!=-1) return dp[i];
 
         //take
-        int take=nums[i]+rec(i+2,nums,dp);
+        int take=nums[i]+rec(i+2,n,nums,dp);
 
-        //not take
-        int not_take=rec(i+1,nums,dp);
+        //nottake
+        int not_take=rec(i+1,n,nums,dp);
 
         return dp[i]=max(take,not_take);
     }
@@ -20,6 +21,6 @@ public:
         int n=nums.size();
         vector<int> dp(n,-1);
 
-        return rec(0,nums,dp);
+        return rec(0,n,nums,dp);
     }
 };
